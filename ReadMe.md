@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I'm currently working on — Agentic AI pipelines & multi-agent LLM systems using LangGraph, LangChain, and FastAPI | MS Applied ML @ UMD (4.0 GPA)<br>👯 I'm looking to collaborate on — Production-grade RAG systems, LLM orchestration, end-to-end ML pipelines, predictive modeling, and cloud-native AI deployments<br>🌱 I'm currently learning — Multi-agent orchestration, LLM evaluation frameworks, scalable MLOps on AWS & GCP, and advanced time-series forecasting<br>💬 Ask me about — The full DS → ML → AI stack. I've built credit risk models with SHAP explainability, demand forecasting pipelines with MSTL + AutoARIMA, deep learning models hitting 96% recall on clinical ECG data, and agentic AI systems at Tesco that drove £10M+ in financial recoveries — all deployed, all production-grade.<br>🤝 I'm looking for help with — Cutting-edge research in LLM alignment, scalable vector search, and reinforcement learning for decision-making systems<br>⚡ Fun fact — Mechanical Engineer turned full-stack AI builder. From turbines to transformers — literally. And yes, I mean both kinds. 😄
+🔭 I'm currently working on — Agentic AI pipelines with LangGraph & LangChain | MS Applied ML @ UMD (4.0 GPA)
+👯 I'm looking to collaborate on — End-to-end ML systems, RAG pipelines, predictive modeling & cloud-native AI deployments
+🌱 I'm currently learning — Multi-agent orchestration, LLM evaluation & scalable MLOps on AWS & GCP
+💬 Ask me about — The full DS → ML → AI stack. Credit risk models, demand forecasting, 96% recall ECG deep learning, and agentic systems driving £10M+ recoveries at Tesco — all shipped to production.
+⚡ Fun fact — Mechanical Engineer turned full-stack AI builder. From turbines to transformers — both kinds. ⚙️🤖
 
 
 ## 🌐 Socials:
